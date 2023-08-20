@@ -1,0 +1,10 @@
+body {
+    background: #fff;
+    margin: 0 30%;
+}
+
+h1#title {
+    text-align: center;
+    font-size: 3em;
+    text-shadow: 5px 5px 10px black;
+}
